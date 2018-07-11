@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\new\gl_try6\gl_try5\main.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\new\gl_try6\gl_try5\main.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\new\gl_try6\gl_try5\main.cpp(85): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+  gl_try5.vcxproj -> D:\New\gl_try6\x64\Debug\gl_try5.exe
+  gl_try5.vcxproj -> D:\New\gl_try6\x64\Debug\gl_try5.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "D:\New\gl_try6\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2 file(s) copied.
